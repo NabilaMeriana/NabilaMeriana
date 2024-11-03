@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NabilaMeriana
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning sql
+- 📫 Reach me: nabilameriana.ui@gmail.com
